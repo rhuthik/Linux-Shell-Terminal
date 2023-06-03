@@ -30,7 +30,7 @@ Once you have the shell running, you can enter commands similar to a regular she
 
 ## Built-in Functions
 
-Turtle Shell provides the following built-in functions:
+Linux Shell provides the following built-in functions:
 
 - `cd [directory]`: Change the current working directory. If no directory is specified, it prints an error message.
 - `help`: Display a list of built-in functions and usage information.
@@ -42,5 +42,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-- The Turtle Shell project was inspired by the Unix shell and aims to provide a simple implementation for educational purposes.
+- The Linux Shell project was inspired by the Unix shell and aims to provide a simple implementation for educational purposes.
 
